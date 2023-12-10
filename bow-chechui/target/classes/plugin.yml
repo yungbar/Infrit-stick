@@ -1,0 +1,13 @@
+name: Bardak
+version: '1.0-SNAPSHOT'
+main: minebird.bardak.Bardak
+author: bardak
+description: A custom plugin for spawning exploding mobs when shooting a special bow.
+
+commands:
+  bow:
+    description: Gives a special bow to the player
+    usage: /bow [reload,chechui]
+  stick:
+    description: Команда для получения Ifrit Stick
+    usage: /stick
